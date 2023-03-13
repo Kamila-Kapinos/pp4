@@ -1,4 +1,4 @@
-package pl.krakow.uek.student;
+package pl;
 
 public class Main {
     public static void main(String[] args) {

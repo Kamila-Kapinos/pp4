@@ -1,4 +1,4 @@
-package pl.krakow.uek.student;
+package pl;
 
 import java.util.ArrayList;
 import java.util.Arrays;

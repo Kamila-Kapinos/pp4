@@ -1,4 +1,4 @@
-package pl.krakow.uek.student;
+package pl;
 
 public class Greeter {
     public void greet(String name) {
