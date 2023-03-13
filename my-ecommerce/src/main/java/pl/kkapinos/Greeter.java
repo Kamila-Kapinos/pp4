@@ -1,4 +1,4 @@
-package pl;
+package pl.kkapinos;
 
 public class Greeter {
     public void greet(String name) {

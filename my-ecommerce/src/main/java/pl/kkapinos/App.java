@@ -1,4 +1,4 @@
-package pl;
+package pl.kkapinos;
 
 import java.util.ArrayList;
 import java.util.Arrays;
