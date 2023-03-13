@@ -9,7 +9,7 @@ public class App {
         List<String> names = Arrays.asList("Basia", "Michal", "Tomek",
                 "Agnieszka", "Ola", "Kasia");
         Greeter greeter = new Greeter();
-        greeter.greet("Kamila"); // -> Hello Jakub
+        greeter.greet("Kamila");
 
         List<String> ladies = new ArrayList<String>();
         for (String name : names) {
